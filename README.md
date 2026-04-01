@@ -458,7 +458,7 @@ Thanks to **Apex Planet** for providing this opportunity to work on real-world d
 
 ## 📬 Connect with Me
 
-* 🔗 LinkedIn: linkedin.com/in/vishnuvardhan-parnandi-32bba7329
+* 🔗 LinkedIn: https://linkedin.com/in/vishnuvardhan-parnandi-32bba7329
 * 💻 GitHub: https://github.com/VishnuVardhanParnandi/
 
 ---
